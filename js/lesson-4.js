@@ -196,3 +196,4 @@ form.addEventListener("submit", (event) => {
   event.currentTarget.reset();
   usernameOutput.textContent = "Anonymous";
 });
+
